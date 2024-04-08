@@ -1,0 +1,7 @@
+git init
+mkdir folder_name
+(inside folder do what you want [code] by sublime and save it)
+git add .
+git status
+git commit -m "comment"
+git push -u origin main
